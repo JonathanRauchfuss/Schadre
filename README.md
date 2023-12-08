@@ -12,5 +12,8 @@ I love programming, watching anime, and listening to music!<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schadre&layout=compact&theme=tokyonight)](https://github.com/Schadre/github-readme-stats)
  
  [![Profile badge](https://www.codewars.com/users/Schadre/badges/large)](https://www.codewars.com/users/Schadre)
+
+
+ # new testing text
   
 </div>
